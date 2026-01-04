@@ -110,7 +110,7 @@ public class PhotoDetectionService extends Service {
 
             // REPLACE THIS URL
             Request request = new Request.Builder()
-                    .url("https://face-detection-test-1.onrender.com/detect-face")
+                    .url("https://face-detection-test-2.onrender.com/detect-face")
                     .post(requestBody)
                     .build();
 
